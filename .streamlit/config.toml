@@ -1,0 +1,13 @@
+[server]
+# Disable file watcher to avoid torch._classes errors
+fileWatcherType = "none"
+
+[global]
+# Disable usage stats
+
+[theme]
+primaryColor="#F63366"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F0F2F6"
+textColor="#262730"
+font="sans serif"
